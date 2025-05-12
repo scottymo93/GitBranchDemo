@@ -1,2 +1,3 @@
 hello class
-lets learn brqnching and merging.
+lets learn branching and merging.
+add this line too foo
